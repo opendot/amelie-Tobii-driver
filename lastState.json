@@ -1,0 +1,8 @@
+{
+    "custom_transition": true,
+    "state": 0,
+    "trained_fixation_time": 0.6,
+    "transitions_model": "0 0 4.09078e-102 0.0304864;0.666672 1.10359e-43 0 0.258444;0 0.401622 0.425097 0;0.333328 0.598378 0.574903 0.711069;",
+    "untrained_fixation_radius": 0.05,
+    "untrained_fixation_time": 600
+}
